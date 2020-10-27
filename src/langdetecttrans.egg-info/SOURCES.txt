@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/langdetecttrans.py
+src/langdetecttrans.egg-info/PKG-INFO
+src/langdetecttrans.egg-info/SOURCES.txt
+src/langdetecttrans.egg-info/dependency_links.txt
+src/langdetecttrans.egg-info/requires.txt
+src/langdetecttrans.egg-info/top_level.txt
